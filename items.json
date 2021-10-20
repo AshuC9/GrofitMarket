@@ -1,0 +1,65 @@
+[{
+	"_id": {
+		"$oid": "5eee651f739f8c674fd736ee"
+	},
+	"name": "Apple",
+	"image": "apples.png",
+	"price": "10",
+	"quantity": "1kg"
+}, {
+	"_id": {
+		"$oid": "5eee6671a27a66807cf2bea3"
+	},
+	"name": "Oil",
+	"image": "oil.png",
+	"price": "25",
+	"quantity": "1L"
+}, {
+	"_id": {
+		"$oid": "5eee6692a27a66807cf2bea4"
+	},
+	"name": "Bananas",
+	"image": "bananas.png",
+	"price": "20",
+	"quantity": "1dozen"
+}, {
+	"_id": {
+		"$oid": "5eee66a5a27a66807cf2bea5"
+	},
+	"name": "Sprite",
+	"image": "sprite.png",
+	"price": "30",
+	"quantity": "1L"
+}, {
+	"_id": {
+		"$oid": "5eee66c4a27a66807cf2bea6"
+	},
+	"name": "Nuggets",
+	"image": "nuggets.png",
+	"price": "18",
+	"quantity": "500g"
+}, {
+	"_id": {
+		"$oid": "5eee66cfa27a66807cf2bea7"
+	},
+	"name": "Amul kool",
+	"image": "amul.png",
+	"price": "15",
+	"quantity": "250ml"
+}, {
+	"_id": {
+		"$oid": "5eee66eea27a66807cf2bea8"
+	},
+	"name": "eggplant",
+	"image": "eggplant.png",
+	"price": "15",
+	"quantity": "1kg"
+}, {
+	"_id": {
+		"$oid": "5eee6717a27a66807cf2bea9"
+	},
+	"name": "Oranges",
+	"image": "oranges.png",
+	"price": "35",
+	"quantity": "1kg"
+}]
